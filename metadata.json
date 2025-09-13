@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Age Predictor",
+  "description": "An intuitive web application that uses Gemini to predict a person's age from an uploaded image. It provides a confidence score and allows users to provide feedback to refine the results.",
+  "requestFramePermissions": []
+}
